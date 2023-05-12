@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Desafio-FrontendMentor-ProductPage/static/css/main.2b73d006.css",
+    "main.js": "/Desafio-FrontendMentor-ProductPage/static/js/main.e0198e05.js",
+    "static/media/image-product-2.jpg": "/Desafio-FrontendMentor-ProductPage/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/Desafio-FrontendMentor-ProductPage/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/Desafio-FrontendMentor-ProductPage/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/Desafio-FrontendMentor-ProductPage/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/logo.svg": "/Desafio-FrontendMentor-ProductPage/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "index.html": "/Desafio-FrontendMentor-ProductPage/index.html",
+    "main.2b73d006.css.map": "/Desafio-FrontendMentor-ProductPage/static/css/main.2b73d006.css.map",
+    "main.e0198e05.js.map": "/Desafio-FrontendMentor-ProductPage/static/js/main.e0198e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b73d006.css",
+    "static/js/main.e0198e05.js"
+  ]
+}
